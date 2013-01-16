@@ -14,11 +14,13 @@ django-celery==3.0.11
 django-compressor==1.2
 django-debug-toolbar==0.9.4
 docutils==0.10
+gevent==0.13.8
+greenlet==0.4.0
+gunicorn==0.17.2
 kombu==2.5.4
+newrelic==1.9.0.21
 pycrypto==2.6
 python-dateutil==1.5
 pytz==2012j
 ssh==1.8.0
 wsgiref==0.1.2
-newrelic
-gunicorn
