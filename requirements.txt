@@ -9,11 +9,13 @@ anyjson==0.3.3
 argparse==1.2.1
 billiard==2.7.3.19
 celery==3.0.13
+dj-database-url==0.1.2
 django-appconf==0.5
 django-celery==3.0.11
 django-compressor==1.2
 django-debug-toolbar==0.9.4
 django-heroku-memcacheify==0.4
+django-heroku-postgresify==0.3
 django-pylibmc-sasl==0.2.4
 docutils==0.10
 gevent==0.13.8
