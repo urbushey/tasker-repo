@@ -29,3 +29,4 @@ python-dateutil==1.5
 pytz==2012j
 ssh==1.8.0
 wsgiref==0.1.2
+boto
